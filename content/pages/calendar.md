@@ -7,31 +7,439 @@ uid: 742cf2d7-2685-2a22-3d8d-cf771a1b6934
 P = Possible group presentation dates  
 \* = Longer readings
 
-| Class # | Readings | Important Dates |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Introduction {{< br >}}{{< br >}}  | Journals due weekly. |
-| 2 |  {{< br >}}{{< br >}} _Ender's Game._ {{< br >}}{{< br >}}  | &nbsp; |
-| 3 |  {{< br >}}{{< br >}} _Ender's Game._ {{< br >}}{{< br >}}  | &nbsp; |
-| 4 |  {{< br >}}{{< br >}} Machiavelli. _The Prince._ {{< br >}}{{< br >}}  | &nbsp; |
-| 5 |  {{< br >}}{{< br >}} Machiavelli. _The Prince._ {{< br >}}{{< br >}}  | &nbsp; |
-| 6 |  {{< br >}}{{< br >}} Sahagún. _The War of Conquest._ {{< br >}}{{< br >}}  | Writing Conferences. |
-| 7 |  {{< br >}}{{< br >}} Sahagún. _The War of Conquest._ {{< br >}}{{< br >}} Cortés. _Second Letter._ (CP) {{< br >}}{{< br >}}  | Paper #1 due, a day prior to Class #8. |
-| 8 |  {{< br >}}{{< br >}} Voltaire. _Candide._ {{< br >}}{{< br >}}  | &nbsp; |
-| 9 |  {{< br >}}{{< br >}} Voltaire. _Candide._ {{< br >}}{{< br >}}  | Revision of Paper #1 due. |
-| 10 |  {{< br >}}{{< br >}} Blake. _Songs of Innocence and Experience._ {{< br >}}{{< br >}}  | &nbsp; |
-| 11 |  {{< br >}}{{< br >}} Blake. _Songs of Innocence and Experience._ {{< br >}}{{< br >}}  | NOTE: Makeup class - time TBA. |
-| 12 |  {{< br >}}{{< br >}} Williams. _Letters from France._ {{< br >}}{{< br >}}  | Draft #2 due, a day prior to Class #13. |
-| 13 |  {{< br >}}{{< br >}} Williams. _Letters from France._ {{< br >}}{{< br >}}  | &nbsp; |
-| 14 |  {{< br >}}{{< br >}} Stowe. _Uncle Tom's Cabin._ {{< br >}}{{< br >}}  | &nbsp; |
-| 15 |  {{< br >}}{{< br >}} \*Stowe. _Uncle Tom's Cabin._ P {{< br >}}{{< br >}}  | &nbsp; |
-| 16 |  {{< br >}}{{< br >}} Stowe. _Uncle Tom's Cabin._ {{< br >}}{{< br >}}  | Paper #2 due. |
-| 17 |  {{< br >}}{{< br >}} \*Stowe. _Uncle Tom's Cabin._ P {{< br >}}{{< br >}}  | &nbsp; |
-| 18 |  {{< br >}}{{< br >}} Whitman. _Drum Taps._ {{< br >}}{{< br >}}  | &nbsp; |
-| 19 |  {{< br >}}{{< br >}} Whitman. _Drum Taps._ P {{< br >}}{{< br >}}  | &nbsp; |
-| 20 |  {{< br >}}{{< br >}} Lincoln. _Gettysburg Address and Second Inaugural._ {{< br >}}{{< br >}}  | &nbsp; |
-| 21 |  {{< br >}}{{< br >}} Field trip: Levinson. _Written in Stone._ {{< br >}}{{< br >}}  | &nbsp; |
-| 22 |  {{< br >}}{{< br >}} _\*Card. Speaker for the Dead._ {{< br >}}{{< br >}}  | &nbsp; |
-| 23 |  {{< br >}}{{< br >}} _\*Card. Speaker for the Dead._ {{< br >}}{{< br >}}  | &nbsp; |
-| 24 |  {{< br >}}{{< br >}} Robert Lowell, Derek Walcott. P {{< br >}}{{< br >}}  | Paper #3 due. |
-| 25 |  {{< br >}}{{< br >}} \*Ondaatje. _Anil's Ghost._ P {{< br >}}{{< br >}}  | &nbsp; |
-| 26 |  {{< br >}}{{< br >}} \*Ondaatje. _Anil's Ghost._ {{< br >}}{{< br >}}  |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Class #
+{{< thclose >}}
+{{< thopen >}}
+Readings
+{{< thclose >}}
+{{< thopen >}}
+Important Dates
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Journals due weekly.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Ender's Game._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Ender's Game._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Machiavelli. _The Prince._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Machiavelli. _The Prince._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Sahagún. _The War of Conquest._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Writing Conferences.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Sahagún. _The War of Conquest._
+
+Cortés. _Second Letter._ (CP)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Paper #1 due, a day prior to Class #8.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Voltaire. _Candide._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Voltaire. _Candide._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Revision of Paper #1 due.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Blake. _Songs of Innocence and Experience._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Blake. _Songs of Innocence and Experience._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+NOTE: Makeup class - time TBA.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Williams. _Letters from France._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Draft #2 due, a day prior to Class #13.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Williams. _Letters from France._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Stowe. _Uncle Tom's Cabin._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\*Stowe. _Uncle Tom's Cabin._ P
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Stowe. _Uncle Tom's Cabin._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Paper #2 due.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\*Stowe. _Uncle Tom's Cabin._ P
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Whitman. _Drum Taps._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Whitman. _Drum Taps._ P
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lincoln. _Gettysburg Address and Second Inaugural._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Field trip: Levinson. _Written in Stone._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_\*Card. Speaker for the Dead._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_\*Card. Speaker for the Dead._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Robert Lowell, Derek Walcott. P
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Paper #3 due.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\*Ondaatje. _Anil's Ghost._ P
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\*Ondaatje. _Anil's Ghost._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
